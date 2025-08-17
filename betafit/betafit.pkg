@@ -1,4 +1,13 @@
-D 'overdisp': A direct command to detect overdispersion in count-data models Use overdisp With STATA 19
+D 'betafit': Fitting (fit) a two-parameter beta distribution by maximum likelihood Use betafit With STATA 19
 D
-F overdisp.ado
-F overdisp.hlp
+F beta4.ado
+F beta4.hlp
+F betafit.ado
+F betafit.hlp
+F betafit_ex.ado
+F betafit_lf.ado
+F betafit_p.ado
+F betafit_postestimation.hlp
+F betareg_lf.ado
+F dbetafit.ado
+F dbetafit.hlp
